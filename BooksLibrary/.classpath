@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="h2-1.4.197.jar"/>
+	<classpathentry kind="lib" path="h2-1.4.199.jar"/>
+	<classpathentry kind="lib" path="jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="resources/Icons/h2-1.4.197.jar"/>
+	<classpathentry kind="lib" path="resources/Icons/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="resources/Icons/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="swingx-all-1.6.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
