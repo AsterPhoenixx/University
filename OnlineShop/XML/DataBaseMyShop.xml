@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<OnlineShop>
+    <Man>
+        <Jackets>
+              <FirstJacketName>Roggery</FirstJacketName>
+              <FirstJacketPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\manJacket3.jpg</FirstJacketPathImage>
+              <FirstJacketPrice>€ 4500</FirstJacketPrice>
+              
+              <SecondJacketName>AsertuPremium</SecondJacketName>
+              <SecondJacketPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\manJacket1.jpg</SecondJacketPathImage>
+              <SecondJacketPrice>€ 2300</SecondJacketPrice>
+              
+              <ThirdJacketName>FeloriumLefaute</ThirdJacketName>
+              <ThirdJacketPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\manJacket2.jpg</ThirdJacketPathImage>
+              <ThirdJacketPrice>€ 1990</ThirdJacketPrice>
+              
+              <ForthJacketName>VeloriumFardet</ForthJacketName>
+              <ForthJacketPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\manJacket4.jpg</ForthJacketPathImage>
+              <ForthJacketPrice>€ 3400</ForthJacketPrice>
+        </Jackets>
+        <Shirts >
+              <FirstShirtName>RalphLaurenCorporation</FirstShirtName>
+              <FirstShirtPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\manShirt4.jpg</FirstShirtPathImage>
+              <FirstShirtPrice>€ 1450</FirstShirtPrice>
+              
+              <SecondShirtName>Lacoste</SecondShirtName>
+              <SecondShirtPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\manShirt2.jpg</SecondShirtPathImage>
+              <SecondShirtPrice>€ 2550</SecondShirtPrice>
+              
+              <ThirdShirtName>HugoBoss</ThirdShirtName>
+              <ThirdShirtPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\manShirt3.jpg</ThirdShirtPathImage>
+              <ThirdShirtPrice>€ 1300</ThirdShirtPrice>
+              
+              <ForthShirtName>AbercrombieFitch</ForthShirtName>
+              <ForthShirtPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\manShirt1.jpg</ForthShirtPathImage>
+              <ForthShirtPrice>€ 3000</ForthShirtPrice>
+              
+        </Shirts>
+    </Man>
+    <Women>
+        <Dress>
+              <FirstDressName>Sherri Hill</FirstDressName>
+              <FirstDressPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\dress1.jpg</FirstDressPathImage>
+              <FirstDressPrice>€ 1800</FirstDressPrice>
+              
+              <SecondDressName>Jovani</SecondDressName>
+              <SecondDressPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\dress2.jpg</SecondDressPathImage>
+              <SecondDressPrice>€ 2450</SecondDressPrice>
+              
+              <ThirdDressName>Mori Lee</ThirdDressName>
+              <ThirdDressPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\dress3.jpg</ThirdDressPathImage>
+              <ThirdtDressPrice>€ 1400</ThirdtDressPrice>
+              
+              <ForthDressName>Max Duggal</ForthDressName>
+              <ForthDressPathImage>D:\JULIEN\Uni\Java\OnlineShop\Images\ResizedImages\dress4.jpg</ForthDressPathImage>
+              <ForthDressPrice>€ 1200</ForthDressPrice>
+              
+
+        </Dress>
+    </Women>
+</OnlineShop>
