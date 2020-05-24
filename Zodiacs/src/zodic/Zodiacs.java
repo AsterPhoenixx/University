@@ -73,7 +73,7 @@ public class Zodiacs {
 	            sign = "scorpio";
 	         else
 	            sign = "Sagittarius";
-	      } else if (month == "Decemmber") {  
+	      } else if (month == "December") {  
 	         if (day < 22)
 	            sign = "Sagittarius"; 
 	         else
