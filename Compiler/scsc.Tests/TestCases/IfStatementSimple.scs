@@ -1,0 +1,4 @@
+﻿int i;
+i = 7;
+if (i>2)
+printf("i is more than two");

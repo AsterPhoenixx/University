@@ -1,0 +1,7 @@
+﻿
+	int func1(int param1) {
+		return param1 + param2 ; //expectederror "Недеклариран идентификатор param2" expectederror "Неочакван тип на символ в таблицата на символите (вътрешна грешка)" expectederror "Несъвместими типове"
+	}
+		int x;
+		x = func1(10);
+		printf(x);

@@ -1,0 +1,7 @@
+﻿printf(234);
+printf(123);
+printf(453);
+printf(64);
+printf(53);
+printf(1345)
+ // expectederror "Очаквам специален символ ';'"

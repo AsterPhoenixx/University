@@ -1,0 +1,6 @@
+﻿int i;
+i = 0;
+if (i>2)
+	printf("i is more than two");
+else
+	printf("i is less than two");

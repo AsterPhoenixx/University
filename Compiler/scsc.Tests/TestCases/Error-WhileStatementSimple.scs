@@ -1,0 +1,7 @@
+﻿int i;
+i = 9;
+while (i>0) {
+		printf(i);
+			i--
+		}
+		//expectederror "Очаквам специален символ ';'"

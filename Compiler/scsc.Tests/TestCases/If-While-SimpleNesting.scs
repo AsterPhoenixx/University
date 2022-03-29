@@ -1,0 +1,8 @@
+﻿int i;
+i = 3;
+if (i>2) {
+	while (i<10) {
+		printf(i);
+				i++;
+			}
+		}

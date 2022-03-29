@@ -1,0 +1,7 @@
+﻿int func1(int param1, int param2) {
+	return param1 + param2;
+}
+
+int x;
+x = func1(10,100);
+printf(x);

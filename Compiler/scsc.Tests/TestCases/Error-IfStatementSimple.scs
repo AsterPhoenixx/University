@@ -1,0 +1,5 @@
+﻿int i; 
+i = 0;
+if (i>2)
+	printf("i is more than two")
+	//expectederror "Очаквам специален символ ';'"
