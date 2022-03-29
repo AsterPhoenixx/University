@@ -1,0 +1,12 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// Copyright (c) 2011 rubicon IT GmbH
+extensions: .aspx .ascx
+<%-- 
+Copyright (c) 2020 JU BG
+extensions: .vb
+
+extensions:  .xml .config .xsd
+<!--
+That program is modified by Zhulien Tonchev And Svetoslav Kolev
+-->
